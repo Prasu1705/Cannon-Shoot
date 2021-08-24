@@ -1,0 +1,12 @@
+"sky"
+{
+	
+	"$hdrbasetexture" "skybox/sky_night_02up"	
+	"$nofog" "1"
+	"$ignorez" "1"
+	"$basetexture" "skybox/sky_night_02up"
+	"%keywords" "tf"
+}
+
+// TF2Maps.net Swamp Theme
+// http://tf2maps.net
